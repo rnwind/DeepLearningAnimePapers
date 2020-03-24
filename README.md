@@ -1,4 +1,4 @@
-# DeepLearningAnimePapers
+# DeepLearningAnimePapers - my version
 A list of papers and other resources on computer vision and deep learning with anime style images.
 Contributions welcome!
 
